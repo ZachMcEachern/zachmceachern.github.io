@@ -1,0 +1,14 @@
+title: Zachary McEachern
+description: Software Engineer - Welcome to my portfolio!
+remote_theme: julianolf/jekyll-theme-8bit
+logo: nes-squirtle
+show_downloads: true
+plugins:
+ - jekyll-paginate
+ - jekyll-seo-tag
+paginate: 2
+social:
+  github: https://github.com/zachmceachern
+  linkedin: https://www.linkedin.com/in/zachary-mceachern-b1507b155/
+disqus:
+  shortname: jekyll-theme-8bit
